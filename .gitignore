@@ -1,0 +1,11 @@
+# Maven build folder (where compiled code goes)
+target/
+
+# NetBeans user-specific settings
+nbproject/private/
+
+# Mac system files (just in case)
+.DS_Store
+
+# Compiled Java files (safety net)
+*.class
